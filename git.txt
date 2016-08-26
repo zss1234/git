@@ -3,3 +3,5 @@ test git branch dev
 
 checkkout master branch
 git merge dev 
+
+gitcheckout -b dev
