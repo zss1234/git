@@ -5,3 +5,6 @@ checkkout master branch
 git merge dev 
 
 gitcheckout -b devafafaf
+
+
+ssh方式连接git
